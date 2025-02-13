@@ -34,7 +34,7 @@ class DirectConnect_cost_assessment():
                 if portUsage:
                     port_unit = portUsage.group(2)
                     port_number = int(portUsage.group(1))
-                    print(f"{port_unit} :  = {port_number}")
+                    # print(f"{port_unit} :  = {port_number}")
                     usageAmount = self.workbook.cell(row=counter,column= config.usage_amount_column).value
                     
                     

@@ -1,0 +1,1808 @@
+{
+    "E5FC-C119-7205": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Belgium",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "032D-AA48-FB8D": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Berlin",
+        "costs": [
+            0.231,
+            "0.231 USD per 1 gibibyte month"
+        ]
+    },
+    "745F-3EF6-B023": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Columbus",
+        "costs": [
+            0.15,
+            "0.15 USD per 1 gibibyte month"
+        ]
+    },
+    "F9C7-3C99-8785": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Dallas",
+        "costs": [
+            0.177,
+            "0.177 USD per 1 gibibyte month"
+        ]
+    },
+    "27F6-9F37-D17B": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Dammam",
+        "costs": [
+            0.24,
+            "0.24 USD per 1 gibibyte month"
+        ]
+    },
+    "AC18-BC7C-2A95": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Finland",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "9AC7-D7C1-66E7": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Iowa",
+        "costs": [
+            0.15,
+            "0.15 USD per 1 gibibyte month"
+        ]
+    },
+    "B766-444C-0271": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Johannesburg",
+        "costs": [
+            0.156,
+            "0.156 USD per 1 gibibyte month"
+        ]
+    },
+    "FA2B-9A8C-B920": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Madrid",
+        "costs": [
+            0.177,
+            "0.177 USD per 1 gibibyte month"
+        ]
+    },
+    "C098-6026-4C13": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Milan",
+        "costs": [
+            0.174,
+            "0.174 USD per 1 gibibyte month"
+        ]
+    },
+    "1C53-92D1-17F6": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Santiago",
+        "costs": [
+            0.215,
+            "0.215 USD per 1 gibibyte month"
+        ]
+    },
+    "402A-2917-A9CE": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Stockholm",
+        "costs": [
+            0.158,
+            "0.158 USD per 1 gibibyte month"
+        ]
+    },
+    "217E-D62E-81F8": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage (with free tier)\n                Turin",
+        "costs": [
+            0.194,
+            "0.194 USD per 1 gibibyte month"
+        ]
+    },
+    "380F-7F14-1E23": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Belgium",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "5F74-53BB-727D": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Berlin",
+        "costs": [
+            0.231,
+            "0.231 USD per 1 gibibyte month"
+        ]
+    },
+    "4649-8C6F-2096": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Columbus",
+        "costs": [
+            0.15,
+            "0.15 USD per 1 gibibyte month"
+        ]
+    },
+    "DDEB-FE82-CE9B": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Dallas",
+        "costs": [
+            0.177,
+            "0.177 USD per 1 gibibyte month"
+        ]
+    },
+    "3460-C5B6-CD54": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Dammam",
+        "costs": [
+            0.24,
+            "0.24 USD per 1 gibibyte month"
+        ]
+    },
+    "46B9-8DBC-2F1F": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Delhi",
+        "costs": [
+            0.173,
+            "0.173 USD per 1 gibibyte month"
+        ]
+    },
+    "D83F-BEDF-2650": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Delhi (with free\n                tier)",
+        "costs": [
+            0.173,
+            "0.173 USD per 1 gibibyte month"
+        ]
+    },
+    "2B6B-7F67-366A": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Doha",
+        "costs": [
+            0.182,
+            "0.182 USD per 1 gibibyte month"
+        ]
+    },
+    "AB49-4309-FC28": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Doha (with free\n                tier)",
+        "costs": [
+            0.182,
+            "0.182 USD per 1 gibibyte month"
+        ]
+    },
+    "2CA4-E09E-58BA": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Europe\n                3",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "1AC9-4ED1-B543": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Europe 3 (with free\n                tier)",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "790E-3A4D-59B7": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Finland",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "C998-A937-4F1F": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Frankfurt",
+        "costs": [
+            0.117,
+            "0.117 USD per 1 gibibyte month"
+        ]
+    },
+    "6CEB-3F46-4383": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Frankfurt (with\n                free tier)",
+        "costs": [
+            0.117,
+            "0.117 USD per 1 gibibyte month"
+        ]
+    },
+    "0EAF-19D4-DCE2": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Hong\n                Kong",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "7A39-55E8-0FDC": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Hong Kong (with\n                free tier)",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "A979-304C-860F": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Iowa",
+        "costs": [
+            0.15,
+            "0.15 USD per 1 gibibyte month"
+        ]
+    },
+    "5BAA-4765-481C": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Jakarta",
+        "costs": [
+            0.192,
+            "0.192 USD per 1 gibibyte month"
+        ]
+    },
+    "4AE3-3176-C70D": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Jakarta (with free\n                tier)",
+        "costs": [
+            0.192,
+            "0.192 USD per 1 gibibyte month"
+        ]
+    },
+    "2E1D-BF7E-F579": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Johannesburg",
+        "costs": [
+            0.156,
+            "0.156 USD per 1 gibibyte month"
+        ]
+    },
+    "0C8C-F6DE-53A8": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Las\n                Vegas",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "B045-25E6-F632": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Las Vegas (with\n                free tier)",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "D5B8-0DBE-3171": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                London",
+        "costs": [
+            0.117,
+            "0.117 USD per 1 gibibyte month"
+        ]
+    },
+    "80A9-ACF5-F672": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage London (with free\n                tier)",
+        "costs": [
+            0.117,
+            "0.117 USD per 1 gibibyte month"
+        ]
+    },
+    "E090-7F02-3F47": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Los\n                Angeles",
+        "costs": [
+            0.108,
+            "0.108 USD per 1 gibibyte month"
+        ]
+    },
+    "1CF3-BC67-6D56": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Los Angeles (with\n                free tier)",
+        "costs": [
+            0.108,
+            "0.108 USD per 1 gibibyte month"
+        ]
+    },
+    "8793-20F7-3878": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Madrid",
+        "costs": [
+            0.177,
+            "0.177 USD per 1 gibibyte month"
+        ]
+    },
+    "8E3D-908C-3CEF": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Melbourne",
+        "costs": [
+            0.171,
+            "0.171 USD per 1 gibibyte month"
+        ]
+    },
+    "D940-6DDE-E7AB": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Melbourne (with\n                free tier)",
+        "costs": [
+            0.171,
+            "0.171 USD per 1 gibibyte month"
+        ]
+    },
+    "23FB-B5E5-C35A": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Milan",
+        "costs": [
+            0.174,
+            "0.174 USD per 1 gibibyte month"
+        ]
+    },
+    "EBBA-5181-7C93": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Montreal",
+        "costs": [
+            0.099,
+            "0.099 USD per 1 gibibyte month"
+        ]
+    },
+    "C326-524E-BD36": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Montreal (with free\n                tier)",
+        "costs": [
+            0.099,
+            "0.099 USD per 1 gibibyte month"
+        ]
+    },
+    "3F06-E0D9-4BF6": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Mumbai",
+        "costs": [
+            0.104,
+            "0.104 USD per 1 gibibyte month"
+        ]
+    },
+    "C021-F762-5295": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Mumbai (with free\n                tier)",
+        "costs": [
+            0.104,
+            "0.104 USD per 1 gibibyte month"
+        ]
+    },
+    "CA0B-F5F6-0FEA": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Netherlands",
+        "costs": [
+            0.17,
+            "0.17 USD per 1 gibibyte month"
+        ]
+    },
+    "5836-8FE9-065B": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Netherlands (with\n                free tier)",
+        "costs": [
+            0.17,
+            "0.17 USD per 1 gibibyte month"
+        ]
+    },
+    "3A6F-33AD-AFB3": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage North America\n                5",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "088A-69AA-56CC": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage North America 5\n                (with free tier)",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "F1CA-EB31-4A8C": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Northern\n                Virginia",
+        "costs": [
+            0.099,
+            "0.099 USD per 1 gibibyte month"
+        ]
+    },
+    "548E-E820-0A9A": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Northern Virginia\n                (with free tier)",
+        "costs": [
+            0.099,
+            "0.099 USD per 1 gibibyte month"
+        ]
+    },
+    "C026-981D-E773": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Oregon",
+        "costs": [
+            0.15,
+            "0.15 USD per 1 gibibyte month"
+        ]
+    },
+    "A330-A21C-4B1E": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Oregon (with free\n                tier)",
+        "costs": [
+            0.15,
+            "0.15 USD per 1 gibibyte month"
+        ]
+    },
+    "6780-B6C2-AAE5": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Osaka",
+        "costs": [
+            0.195,
+            "0.195 USD per 1 gibibyte month"
+        ]
+    },
+    "FCB3-F2CB-7D64": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Osaka (with free\n                tier)",
+        "costs": [
+            0.195,
+            "0.195 USD per 1 gibibyte month"
+        ]
+    },
+    "9CF8-88DC-9A36": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Paris",
+        "costs": [
+            0.179,
+            "0.179 USD per 1 gibibyte month"
+        ]
+    },
+    "5435-5791-594E": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Paris (with free\n                tier)",
+        "costs": [
+            0.179,
+            "0.179 USD per 1 gibibyte month"
+        ]
+    },
+    "B463-26B1-7694": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Salt Lake\n                City",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "4A4C-3CA9-5527": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Salt Lake City\n                (with free tier)",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "3D28-1625-2CCD": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Santiago",
+        "costs": [
+            0.215,
+            "0.215 USD per 1 gibibyte month"
+        ]
+    },
+    "0D18-9809-C3F7": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Sao\n                Paulo",
+        "costs": [
+            0.135,
+            "0.135 USD per 1 gibibyte month"
+        ]
+    },
+    "FF48-2AD1-C0EC": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Sao Paulo (with\n                free tier)",
+        "costs": [
+            0.135,
+            "0.135 USD per 1 gibibyte month"
+        ]
+    },
+    "3151-0097-B9E0": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Seoul",
+        "costs": [
+            0.192,
+            "0.192 USD per 1 gibibyte month"
+        ]
+    },
+    "EAC9-3B96-B97C": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Seoul (with free\n                tier)",
+        "costs": [
+            0.192,
+            "0.192 USD per 1 gibibyte month"
+        ]
+    },
+    "7CA5-F2FB-47D9": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Singapore",
+        "costs": [
+            0.1846,
+            "0.1846 USD per 1 gibibyte month"
+        ]
+    },
+    "AE59-CF60-35F9": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Singapore (with\n                free tier)",
+        "costs": [
+            0.1846,
+            "0.1846 USD per 1 gibibyte month"
+        ]
+    },
+    "A861-9D85-6ACA": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage South\n                Carolina",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "536F-87B6-4859": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage South Carolina\n                (with free tier)",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "0B7E-CC3C-4BAD": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Stockholm",
+        "costs": [
+            0.158,
+            "0.158 USD per 1 gibibyte month"
+        ]
+    },
+    "D6AC-4B6B-476D": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Sydney",
+        "costs": [
+            0.115,
+            "0.115 USD per 1 gibibyte month"
+        ]
+    },
+    "54D8-988B-1166": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Sydney (with free\n                tier)",
+        "costs": [
+            0.115,
+            "0.115 USD per 1 gibibyte month"
+        ]
+    },
+    "4321-FAC9-D920": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Taiwan",
+        "costs": [
+            0.1725,
+            "0.1725 USD per 1 gibibyte month"
+        ]
+    },
+    "44B8-47A5-AE36": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Taiwan (with free\n                tier)",
+        "costs": [
+            0.1725,
+            "0.1725 USD per 1 gibibyte month"
+        ]
+    },
+    "9AE7-14F6-6BC0": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Tel\n                Aviv",
+        "costs": [
+            0.17,
+            "0.17 USD per 1 gibibyte month"
+        ]
+    },
+    "22A9-8AF4-476B": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Tel Aviv (with free\n                tier)",
+        "costs": [
+            0.17,
+            "0.17 USD per 1 gibibyte month"
+        ]
+    },
+    "82E8-1B43-A0B4": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Tokyo",
+        "costs": [
+            0.115,
+            "0.115 USD per 1 gibibyte month"
+        ]
+    },
+    "6C7A-42F3-CE36": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Tokyo (with free\n                tier)",
+        "costs": [
+            0.115,
+            "0.115 USD per 1 gibibyte month"
+        ]
+    },
+    "AFE2-96E3-AE91": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Toronto",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "EC87-80D1-286A": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Toronto (with free\n                tier)",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "EF1A-2F0B-7C4C": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Turin",
+        "costs": [
+            0.194,
+            "0.194 USD per 1 gibibyte month"
+        ]
+    },
+    "74ED-15A2-C8AC": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Warsaw",
+        "costs": [
+            0.195,
+            "0.195 USD per 1 gibibyte month"
+        ]
+    },
+    "3267-5C82-6430": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Warsaw (with free\n                tier)",
+        "costs": [
+            0.195,
+            "0.195 USD per 1 gibibyte month"
+        ]
+    },
+    "6EBF-08CA-453D": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage\n                Zurich",
+        "costs": [
+            0.21,
+            "0.21 USD per 1 gibibyte month"
+        ]
+    },
+    "A5EB-CD96-C121": {
+        "description": "Cloud Firestore Point-in-time Recovery Storage Zurich (with free\n                tier)",
+        "costs": [
+            0.21,
+            "0.21 USD per 1 gibibyte month"
+        ]
+    },
+    "9F6D-50E3-2F9F": {
+        "description": "Cloud Firestore Storage (with free tier) Belgium",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.165 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "5C7A-5793-532E": {
+        "description": "Cloud Firestore Storage (with free tier) Berlin",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.231 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "649E-247C-7386": {
+        "description": "Cloud Firestore Storage (with free tier) Columbus",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.15 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "940C-D5F3-A6DF": {
+        "description": "Cloud Firestore Storage (with free tier) Dallas",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.177 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "489C-B6BC-88BC": {
+        "description": "Cloud Firestore Storage (with free tier) Dammam",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.24 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "D5E5-1F10-5ACC": {
+        "description": "Cloud Firestore Storage (with free tier) Finland",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.165 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "F845-5E55-0738": {
+        "description": "Cloud Firestore Storage (with free tier) Iowa",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.15 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "24E4-2964-E814": {
+        "description": "Cloud Firestore Storage (with free tier)\n                Johannesburg",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.156 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "F27B-47B6-17B3": {
+        "description": "Cloud Firestore Storage (with free tier) Madrid",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.177 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "4FCA-68A1-331D": {
+        "description": "Cloud Firestore Storage (with free tier) Milan",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.174 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "CDAF-5BB6-D9E6": {
+        "description": "Cloud Firestore Storage (with free tier) Santiago",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.215 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "ABF8-B5D5-788F": {
+        "description": "Cloud Firestore Storage (with free tier) Stockholm",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.158 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "071B-1D3A-5C97": {
+        "description": "Cloud Firestore Storage (with free tier) Turin",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.194 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "F5F8-168B-6A8E": {
+        "description": "Cloud Firestore Storage Belgium",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "A642-7A5E-A97F": {
+        "description": "Cloud Firestore Storage Berlin",
+        "costs": [
+            0.231,
+            "0.231 USD per 1 gibibyte month"
+        ]
+    },
+    "149B-EC80-7575": {
+        "description": "Cloud Firestore Storage Columbus",
+        "costs": [
+            0.15,
+            "0.15 USD per 1 gibibyte month"
+        ]
+    },
+    "75B2-D1DA-0DBB": {
+        "description": "Cloud Firestore Storage Dallas",
+        "costs": [
+            0.177,
+            "0.177 USD per 1 gibibyte month"
+        ]
+    },
+    "A796-1EA9-6F63": {
+        "description": "Cloud Firestore Storage Dammam",
+        "costs": [
+            0.24,
+            "0.24 USD per 1 gibibyte month"
+        ]
+    },
+    "9364-12A8-1805": {
+        "description": "Cloud Firestore Storage Delhi",
+        "costs": [
+            0.173,
+            "0.173 USD per 1 gibibyte month"
+        ]
+    },
+    "2F94-8E11-BE6B": {
+        "description": "Cloud Firestore Storage Delhi (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.173 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "3727-3DC5-9B45": {
+        "description": "Cloud Firestore Storage Doha",
+        "costs": [
+            0.182,
+            "0.182 USD per 1 gibibyte month"
+        ]
+    },
+    "2A71-37FA-F967": {
+        "description": "Cloud Firestore Storage Doha (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.182 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "EF24-E82F-84F7": {
+        "description": "Cloud Firestore Storage Europe 3",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "0DBC-A2CA-1BB8": {
+        "description": "Cloud Firestore Storage Europe 3 (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.18 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "93BB-ECEC-D367": {
+        "description": "Cloud Firestore Storage Finland",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "18DA-09F6-A838": {
+        "description": "Cloud Firestore Storage Frankfurt",
+        "costs": [
+            0.117,
+            "0.117 USD per 1 gibibyte month"
+        ]
+    },
+    "F3FF-EE06-429B": {
+        "description": "Cloud Firestore Storage Frankfurt (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.117 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "B33D-61E8-3341": {
+        "description": "Cloud Firestore Storage Hong Kong",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "246E-D038-1302": {
+        "description": "Cloud Firestore Storage Hong Kong (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.18 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "140B-ADDF-6A12": {
+        "description": "Cloud Firestore Storage Iowa",
+        "costs": [
+            0.15,
+            "0.15 USD per 1 gibibyte month"
+        ]
+    },
+    "755F-A100-12B6": {
+        "description": "Cloud Firestore Storage Jakarta",
+        "costs": [
+            0.192,
+            "0.192 USD per 1 gibibyte month"
+        ]
+    },
+    "FFEE-E229-88B0": {
+        "description": "Cloud Firestore Storage Jakarta (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.192 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "2521-063A-15A9": {
+        "description": "Cloud Firestore Storage Johannesburg",
+        "costs": [
+            0.156,
+            "0.156 USD per 1 gibibyte month"
+        ]
+    },
+    "C0F4-C70B-6C81": {
+        "description": "Cloud Firestore Storage Las Vegas",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "3B79-ADE3-2703": {
+        "description": "Cloud Firestore Storage Las Vegas (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.165 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "AE86-A637-ABB0": {
+        "description": "Cloud Firestore Storage London",
+        "costs": [
+            0.117,
+            "0.117 USD per 1 gibibyte month"
+        ]
+    },
+    "2D40-9D14-7B8C": {
+        "description": "Cloud Firestore Storage London (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.117 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "51A3-43DB-A651": {
+        "description": "Cloud Firestore Storage Los Angeles",
+        "costs": [
+            0.108,
+            "0.108 USD per 1 gibibyte month"
+        ]
+    },
+    "DD8B-C29C-52B3": {
+        "description": "Cloud Firestore Storage Los Angeles (with free\n                tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.108 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "5299-7DA5-CC70": {
+        "description": "Cloud Firestore Storage Madrid",
+        "costs": [
+            0.177,
+            "0.177 USD per 1 gibibyte month"
+        ]
+    },
+    "B370-FB78-27AB": {
+        "description": "Cloud Firestore Storage Melbourne",
+        "costs": [
+            0.171,
+            "0.171 USD per 1 gibibyte month"
+        ]
+    },
+    "E1D7-E3D3-6C59": {
+        "description": "Cloud Firestore Storage Melbourne (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.171 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "1D11-FF56-EE3A": {
+        "description": "Cloud Firestore Storage Milan",
+        "costs": [
+            0.174,
+            "0.174 USD per 1 gibibyte month"
+        ]
+    },
+    "CDA3-167C-C362": {
+        "description": "Cloud Firestore Storage Montreal",
+        "costs": [
+            0.099,
+            "0.099 USD per 1 gibibyte month"
+        ]
+    },
+    "54BE-46A7-2B18": {
+        "description": "Cloud Firestore Storage Montreal (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.099 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "69DD-52FC-0B71": {
+        "description": "Cloud Firestore Storage Mumbai",
+        "costs": [
+            0.104,
+            "0.104 USD per 1 gibibyte month"
+        ]
+    },
+    "882F-9FE5-B954": {
+        "description": "Cloud Firestore Storage Mumbai (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.104 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "0A50-35F5-FC3C": {
+        "description": "Cloud Firestore Storage Netherlands",
+        "costs": [
+            0.17,
+            "0.17 USD per 1 gibibyte month"
+        ]
+    },
+    "81E1-65F3-A67A": {
+        "description": "Cloud Firestore Storage Netherlands (with free\n                tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.17 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "D36D-B95D-8F80": {
+        "description": "Cloud Firestore Storage North America 5",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "99B1-F02F-8886": {
+        "description": "Cloud Firestore Storage North America 5 (with free\n                tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.18 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "5DEB-7108-4130": {
+        "description": "Cloud Firestore Storage Northern Virginia",
+        "costs": [
+            0.099,
+            "0.099 USD per 1 gibibyte month"
+        ]
+    },
+    "C1BC-DB51-B09A": {
+        "description": "Cloud Firestore Storage Northern Virginia (with free\n                tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.099 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "BE3D-0239-1BF7": {
+        "description": "Cloud Firestore Storage Oregon",
+        "costs": [
+            0.15,
+            "0.15 USD per 1 gibibyte month"
+        ]
+    },
+    "DC92-7CAE-E6F7": {
+        "description": "Cloud Firestore Storage Oregon (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.15 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "7A42-AF6C-00D3": {
+        "description": "Cloud Firestore Storage Osaka",
+        "costs": [
+            0.195,
+            "0.195 USD per 1 gibibyte month"
+        ]
+    },
+    "23D3-94A8-CC58": {
+        "description": "Cloud Firestore Storage Osaka (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.195 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "FE00-D4E1-BD21": {
+        "description": "Cloud Firestore Storage Paris",
+        "costs": [
+            0.179,
+            "0.179 USD per 1 gibibyte month"
+        ]
+    },
+    "C502-FF78-E12E": {
+        "description": "Cloud Firestore Storage Paris (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.179 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "3A05-2C87-B67A": {
+        "description": "Cloud Firestore Storage Salt Lake City",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "EC37-444F-739D": {
+        "description": "Cloud Firestore Storage Salt Lake City (with free\n                tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.18 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "A258-6BF1-2E6E": {
+        "description": "Cloud Firestore Storage Santiago",
+        "costs": [
+            0.215,
+            "0.215 USD per 1 gibibyte month"
+        ]
+    },
+    "01F0-2540-FE8F": {
+        "description": "Cloud Firestore Storage Sao Paulo",
+        "costs": [
+            0.135,
+            "0.135 USD per 1 gibibyte month"
+        ]
+    },
+    "BB37-A96C-43B4": {
+        "description": "Cloud Firestore Storage Sao Paulo (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.135 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "B275-DD1F-12DE": {
+        "description": "Cloud Firestore Storage Seoul",
+        "costs": [
+            0.192,
+            "0.192 USD per 1 gibibyte month"
+        ]
+    },
+    "6DA7-C3C5-4985": {
+        "description": "Cloud Firestore Storage Seoul (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.192 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "2927-28BA-208B": {
+        "description": "Cloud Firestore Storage Singapore",
+        "costs": [
+            0.1846,
+            "0.1846 USD per 1 gibibyte month"
+        ]
+    },
+    "50DB-22B2-6E3B": {
+        "description": "Cloud Firestore Storage Singapore (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.1846 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "4603-32F7-87D9": {
+        "description": "Cloud Firestore Storage South Carolina",
+        "costs": [
+            0.18,
+            "0.18 USD per 1 gibibyte month"
+        ]
+    },
+    "FBDF-C401-50E8": {
+        "description": "Cloud Firestore Storage South Carolina (with free\n                tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.18 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "C877-8653-BA6A": {
+        "description": "Cloud Firestore Storage Stockholm",
+        "costs": [
+            0.158,
+            "0.158 USD per 1 gibibyte month"
+        ]
+    },
+    "794F-752A-D843": {
+        "description": "Cloud Firestore Storage Sydney",
+        "costs": [
+            0.115,
+            "0.115 USD per 1 gibibyte month"
+        ]
+    },
+    "8FE9-5F18-3B8E": {
+        "description": "Cloud Firestore Storage Sydney (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.115 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "55A5-91D7-7337": {
+        "description": "Cloud Firestore Storage Taiwan",
+        "costs": [
+            0.1725,
+            "0.1725 USD per 1 gibibyte month"
+        ]
+    },
+    "33E0-22E0-E4F9": {
+        "description": "Cloud Firestore Storage Taiwan (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.1725 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "09D1-670A-B826": {
+        "description": "Cloud Firestore Storage Tel Aviv",
+        "costs": [
+            0.17,
+            "0.17 USD per 1 gibibyte month"
+        ]
+    },
+    "7F19-C707-361B": {
+        "description": "Cloud Firestore Storage Tel Aviv (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.17 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "46BD-4CEB-6B94": {
+        "description": "Cloud Firestore Storage Tokyo",
+        "costs": [
+            0.115,
+            "0.115 USD per 1 gibibyte month"
+        ]
+    },
+    "27C3-B046-DBBD": {
+        "description": "Cloud Firestore Storage Tokyo (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.115 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "F1BD-5D35-2FEA": {
+        "description": "Cloud Firestore Storage Toronto",
+        "costs": [
+            0.165,
+            "0.165 USD per 1 gibibyte month"
+        ]
+    },
+    "B7CC-1AFA-0260": {
+        "description": "Cloud Firestore Storage Toronto (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.165 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "65D8-714D-D504": {
+        "description": "Cloud Firestore Storage Turin",
+        "costs": [
+            0.194,
+            "0.194 USD per 1 gibibyte month"
+        ]
+    },
+    "FE84-B084-34E2": {
+        "description": "Cloud Firestore Storage Warsaw",
+        "costs": [
+            0.195,
+            "0.195 USD per 1 gibibyte month"
+        ]
+    },
+    "4570-BC93-2F62": {
+        "description": "Cloud Firestore Storage Warsaw (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.195 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "4973-18CD-F100": {
+        "description": "Cloud Firestore Storage Zurich",
+        "costs": [
+            0.21,
+            "0.21 USD per 1 gibibyte month"
+        ]
+    },
+    "ECD5-B4FF-7FCC": {
+        "description": "Cloud Firestore Storage Zurich (with free tier)",
+        "costs": [
+            "0.00 USD (Free) per 1 gibibyte month, for 0 to 1 gibibyte day, per 1 day per\n                project",
+            "0.21 USD per 1 gibibyte month, for 1 gibibyte day and above, per 1 day per project"
+        ]
+    },
+    "BF4B-0536-B792": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Belgium",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "4EF7-C9B7-85E4": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Berlin",
+        "costs": [
+            0.046,
+            "0.046 USD per 1 gibibyte month"
+        ]
+    },
+    "3A2C-5C98-BF89": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Columbus",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "EE73-35F5-B296": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Dallas",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "D025-4082-4269": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Dammam",
+        "costs": [
+            0.048,
+            "0.048 USD per 1 gibibyte month"
+        ]
+    },
+    "21A1-9854-E9F1": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Finland",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "CFBB-542F-A2DE": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Iowa",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "43DA-C967-9A7B": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Johannesburg",
+        "costs": [
+            0.031,
+            "0.031 USD per 1 gibibyte month"
+        ]
+    },
+    "CFFA-4332-514C": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Madrid",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "1B79-CAFC-EF77": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Milan",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "C0C9-19BC-3FF7": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Santiago",
+        "costs": [
+            0.043,
+            "0.043 USD per 1 gibibyte month"
+        ]
+    },
+    "A03D-045A-344F": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Stockholm",
+        "costs": [
+            0.032,
+            "0.032 USD per 1 gibibyte month"
+        ]
+    },
+    "27BA-D8CF-2391": {
+        "description": "Cloud Firestore Zonal Backup Storage (with free tier)\n                Turin",
+        "costs": [
+            0.039,
+            "0.039 USD per 1 gibibyte month"
+        ]
+    },
+    "4B62-2D3D-A492": {
+        "description": "Cloud Firestore Zonal Backup Storage Belgium",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "B6B0-2792-AE71": {
+        "description": "Cloud Firestore Zonal Backup Storage Berlin",
+        "costs": [
+            0.046,
+            "0.046 USD per 1 gibibyte month"
+        ]
+    },
+    "75C8-4EFF-38A0": {
+        "description": "Cloud Firestore Zonal Backup Storage Columbus",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "9FD4-879B-EAF3": {
+        "description": "Cloud Firestore Zonal Backup Storage Dallas",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "E107-C7F6-C83E": {
+        "description": "Cloud Firestore Zonal Backup Storage Dammam",
+        "costs": [
+            0.048,
+            "0.048 USD per 1 gibibyte month"
+        ]
+    },
+    "9172-157B-4864": {
+        "description": "Cloud Firestore Zonal Backup Storage Delhi",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "F36E-0F0C-8DA8": {
+        "description": "Cloud Firestore Zonal Backup Storage Delhi (with free\n                tier)",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "FAAB-45A0-6552": {
+        "description": "Cloud Firestore Zonal Backup Storage Doha",
+        "costs": [
+            0.036,
+            "0.036 USD per 1 gibibyte month"
+        ]
+    },
+    "C860-8671-F455": {
+        "description": "Cloud Firestore Zonal Backup Storage Doha (with free\n                tier)",
+        "costs": [
+            0.036,
+            "0.036 USD per 1 gibibyte month"
+        ]
+    },
+    "52D9-51A9-93CC": {
+        "description": "Cloud Firestore Zonal Backup Storage Europe 3",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "DC0B-02B3-F5D1": {
+        "description": "Cloud Firestore Zonal Backup Storage Europe 3 (with free\n                tier)",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "D471-3B14-B012": {
+        "description": "Cloud Firestore Zonal Backup Storage Finland",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "FB3D-0003-2A45": {
+        "description": "Cloud Firestore Zonal Backup Storage Frankfurt",
+        "costs": [
+            0.039,
+            "0.039 USD per 1 gibibyte month"
+        ]
+    },
+    "3120-7880-E150": {
+        "description": "Cloud Firestore Zonal Backup Storage Frankfurt (with free\n                tier)",
+        "costs": [
+            0.039,
+            "0.039 USD per 1 gibibyte month"
+        ]
+    },
+    "2A11-1B7C-ABA2": {
+        "description": "Cloud Firestore Zonal Backup Storage Hong Kong",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "913C-EFFD-8C01": {
+        "description": "Cloud Firestore Zonal Backup Storage Hong Kong (with free\n                tier)",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "1462-48DB-955E": {
+        "description": "Cloud Firestore Zonal Backup Storage Iowa",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "908D-4C75-66CB": {
+        "description": "Cloud Firestore Zonal Backup Storage Jakarta",
+        "costs": [
+            0.038,
+            "0.038 USD per 1 gibibyte month"
+        ]
+    },
+    "EB4F-9D75-7034": {
+        "description": "Cloud Firestore Zonal Backup Storage Jakarta (with free\n                tier)",
+        "costs": [
+            0.038,
+            "0.038 USD per 1 gibibyte month"
+        ]
+    },
+    "C805-65F4-1A58": {
+        "description": "Cloud Firestore Zonal Backup Storage Johannesburg",
+        "costs": [
+            0.031,
+            "0.031 USD per 1 gibibyte month"
+        ]
+    },
+    "BCD8-B6AD-BEC8": {
+        "description": "Cloud Firestore Zonal Backup Storage Las Vegas",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "125B-0F44-8BC6": {
+        "description": "Cloud Firestore Zonal Backup Storage Las Vegas (with free\n                tier)",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "20CF-D6B8-B4CD": {
+        "description": "Cloud Firestore Zonal Backup Storage London",
+        "costs": [
+            0.039,
+            "0.039 USD per 1 gibibyte month"
+        ]
+    },
+    "63F2-2DAD-B186": {
+        "description": "Cloud Firestore Zonal Backup Storage London (with free\n                tier)",
+        "costs": [
+            0.039,
+            "0.039 USD per 1 gibibyte month"
+        ]
+    },
+    "0D26-C537-3D09": {
+        "description": "Cloud Firestore Zonal Backup Storage Los Angeles",
+        "costs": [
+            0.036,
+            "0.036 USD per 1 gibibyte month"
+        ]
+    },
+    "37B4-00B7-22C0": {
+        "description": "Cloud Firestore Zonal Backup Storage Los Angeles (with free\n                tier)",
+        "costs": [
+            0.036,
+            "0.036 USD per 1 gibibyte month"
+        ]
+    },
+    "B5CB-54BB-A83D": {
+        "description": "Cloud Firestore Zonal Backup Storage Madrid",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "79B6-51EE-3D07": {
+        "description": "Cloud Firestore Zonal Backup Storage Melbourne",
+        "costs": [
+            0.034,
+            "0.034 USD per 1 gibibyte month"
+        ]
+    },
+    "ABF4-19DF-D370": {
+        "description": "Cloud Firestore Zonal Backup Storage Melbourne (with free\n                tier)",
+        "costs": [
+            0.034,
+            "0.034 USD per 1 gibibyte month"
+        ]
+    },
+    "DE62-4554-D0AF": {
+        "description": "Cloud Firestore Zonal Backup Storage Milan",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "4266-541A-1F0B": {
+        "description": "Cloud Firestore Zonal Backup Storage Montreal",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "2604-2CFC-17D6": {
+        "description": "Cloud Firestore Zonal Backup Storage Montreal (with free\n                tier)",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "5569-9457-8DC6": {
+        "description": "Cloud Firestore Zonal Backup Storage Mumbai",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "9D93-1B1F-5E47": {
+        "description": "Cloud Firestore Zonal Backup Storage Mumbai (with free\n                tier)",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "3444-C1F6-1D5B": {
+        "description": "Cloud Firestore Zonal Backup Storage Netherlands",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "022C-B03C-1CEF": {
+        "description": "Cloud Firestore Zonal Backup Storage Netherlands (with free\n                tier)",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "A031-F7B4-5ED9": {
+        "description": "Cloud Firestore Zonal Backup Storage North America\n                5",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "4782-4E8B-770C": {
+        "description": "Cloud Firestore Zonal Backup Storage North America 5 (with free\n                tier)",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "C529-E257-73CE": {
+        "description": "Cloud Firestore Zonal Backup Storage Northern\n                Virginia",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "6C4F-C0C3-6455": {
+        "description": "Cloud Firestore Zonal Backup Storage Northern Virginia (with free\n                tier)",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "C517-DFF6-5305": {
+        "description": "Cloud Firestore Zonal Backup Storage Oregon",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "290A-5C18-5E60": {
+        "description": "Cloud Firestore Zonal Backup Storage Oregon (with free\n                tier)",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "C17F-281F-EC61": {
+        "description": "Cloud Firestore Zonal Backup Storage Osaka",
+        "costs": [
+            0.038,
+            "0.038 USD per 1 gibibyte month"
+        ]
+    },
+    "3707-69AA-ABC3": {
+        "description": "Cloud Firestore Zonal Backup Storage Osaka (with free\n                tier)",
+        "costs": [
+            0.038,
+            "0.038 USD per 1 gibibyte month"
+        ]
+    },
+    "95CB-3FC3-003E": {
+        "description": "Cloud Firestore Zonal Backup Storage Paris",
+        "costs": [
+            0.036,
+            "0.036 USD per 1 gibibyte month"
+        ]
+    },
+    "A91A-AAE7-1093": {
+        "description": "Cloud Firestore Zonal Backup Storage Paris (with free\n                tier)",
+        "costs": [
+            0.036,
+            "0.036 USD per 1 gibibyte month"
+        ]
+    },
+    "AD91-FAD6-A941": {
+        "description": "Cloud Firestore Zonal Backup Storage Salt Lake\n                City",
+        "costs": [
+            0.036,
+            "0.036 USD per 1 gibibyte month"
+        ]
+    },
+    "65CD-CE26-A7EC": {
+        "description": "Cloud Firestore Zonal Backup Storage Salt Lake City (with free\n                tier)",
+        "costs": [
+            0.036,
+            "0.036 USD per 1 gibibyte month"
+        ]
+    },
+    "DBE6-CA36-1D7F": {
+        "description": "Cloud Firestore Zonal Backup Storage Santiago",
+        "costs": [
+            0.043,
+            "0.043 USD per 1 gibibyte month"
+        ]
+    },
+    "D49A-177B-97E7": {
+        "description": "Cloud Firestore Zonal Backup Storage Sao Paulo",
+        "costs": [
+            0.045,
+            "0.045 USD per 1 gibibyte month"
+        ]
+    },
+    "4E6E-CCCF-71BA": {
+        "description": "Cloud Firestore Zonal Backup Storage Sao Paulo (with free\n                tier)",
+        "costs": [
+            0.045,
+            "0.045 USD per 1 gibibyte month"
+        ]
+    },
+    "4C7F-0C72-5DCE": {
+        "description": "Cloud Firestore Zonal Backup Storage Seoul",
+        "costs": [
+            0.038,
+            "0.038 USD per 1 gibibyte month"
+        ]
+    },
+    "82BD-58FE-D2A9": {
+        "description": "Cloud Firestore Zonal Backup Storage Seoul (with free\n                tier)",
+        "costs": [
+            0.038,
+            "0.038 USD per 1 gibibyte month"
+        ]
+    },
+    "8369-4046-11C9": {
+        "description": "Cloud Firestore Zonal Backup Storage Singapore",
+        "costs": [
+            0.037,
+            "0.037 USD per 1 gibibyte month"
+        ]
+    },
+    "453A-5D00-E75C": {
+        "description": "Cloud Firestore Zonal Backup Storage Singapore (with free\n                tier)",
+        "costs": [
+            0.037,
+            "0.037 USD per 1 gibibyte month"
+        ]
+    },
+    "5232-8993-6D44": {
+        "description": "Cloud Firestore Zonal Backup Storage South\n                Carolina",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "6050-D632-3104": {
+        "description": "Cloud Firestore Zonal Backup Storage South Carolina (with free\n                tier)",
+        "costs": [
+            0.03,
+            "0.03 USD per 1 gibibyte month"
+        ]
+    },
+    "DCB7-BE46-139D": {
+        "description": "Cloud Firestore Zonal Backup Storage Stockholm",
+        "costs": [
+            0.032,
+            "0.032 USD per 1 gibibyte month"
+        ]
+    },
+    "8652-5E69-5281": {
+        "description": "Cloud Firestore Zonal Backup Storage Sydney",
+        "costs": [
+            0.038,
+            "0.038 USD per 1 gibibyte month"
+        ]
+    },
+    "C385-C541-EEA8": {
+        "description": "Cloud Firestore Zonal Backup Storage Sydney (with free\n                tier)",
+        "costs": [
+            0.038,
+            "0.038 USD per 1 gibibyte month"
+        ]
+    },
+    "D6F7-F08F-C1C2": {
+        "description": "Cloud Firestore Zonal Backup Storage Taiwan",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "27BE-4077-900C": {
+        "description": "Cloud Firestore Zonal Backup Storage Taiwan (with free\n                tier)",
+        "costs": [
+            0.035,
+            "0.035 USD per 1 gibibyte month"
+        ]
+    },
+    "1CB4-2A6C-6FB7": {
+        "description": "Cloud Firestore Zonal Backup Storage Tel Aviv",
+        "costs": [
+            0.034,
+            "0.034 USD per 1 gibibyte month"
+        ]
+    },
+    "418A-27E0-67CB": {
+        "description": "Cloud Firestore Zonal Backup Storage Tel Aviv (with free\n                tier)",
+        "costs": [
+            0.034,
+            "0.034 USD per 1 gibibyte month"
+        ]
+    },
+    "6B3E-19B8-665E": {
+        "description": "Cloud Firestore Zonal Backup Storage Tokyo",
+        "costs": [
+            0.038,
+            "0.038 USD per 1 gibibyte month"
+        ]
+    },
+    "1556-16D2-1D11": {
+        "description": "Cloud Firestore Zonal Backup Storage Tokyo (with free\n                tier)",
+        "costs": [
+            0.038,
+            "0.038 USD per 1 gibibyte month"
+        ]
+    },
+    "B491-2DEC-AFA6": {
+        "description": "Cloud Firestore Zonal Backup Storage Toronto",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "DDCA-BE11-2A5A": {
+        "description": "Cloud Firestore Zonal Backup Storage Toronto (with free\n                tier)",
+        "costs": [
+            0.033,
+            "0.033 USD per 1 gibibyte month"
+        ]
+    },
+    "47C3-85E9-0209": {
+        "description": "Cloud Firestore Zonal Backup Storage Turin",
+        "costs": [
+            0.039,
+            "0.039 USD per 1 gibibyte month"
+        ]
+    },
+    "E8E1-046A-5E34": {
+        "description": "Cloud Firestore Zonal Backup Storage Warsaw",
+        "costs": [
+            0.039,
+            "0.039 USD per 1 gibibyte month"
+        ]
+    },
+    "881A-816D-35A4": {
+        "description": "Cloud Firestore Zonal Backup Storage Warsaw (with free\n                tier)",
+        "costs": [
+            0.039,
+            "0.039 USD per 1 gibibyte month"
+        ]
+    },
+    "7EBB-2C20-581E": {
+        "description": "Cloud Firestore Zonal Backup Storage Zurich",
+        "costs": [
+            0.042,
+            "0.042 USD per 1 gibibyte month"
+        ]
+    },
+    "3B01-ED32-981A": {
+        "description": "Cloud Firestore Zonal Backup Storage Zurich (with free\n                tier)",
+        "costs": [
+            0.042,
+            "0.042 USD per 1 gibibyte month"
+        ]
+    }
+}

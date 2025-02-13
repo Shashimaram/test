@@ -27,6 +27,8 @@ print(ws.sheetnames)
 for sheet in ws.sheetnames:
     paramountdataTranfer = Data_transfer(ws[sheet]) #* AWS direct connect is included as data transfer
     paramountdataTranfer.process()
+    # paramountS3 = Elastic_load_Balancing(ws[sheet])
+    # paramountS3.process()
     paramountEC2 = ec2_Others_cost_assessments(ws[sheet])
     paramountEC2.process()
     break

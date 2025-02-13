@@ -4,8 +4,11 @@ import config
 class ec2_Others_cost_assessments():
     def __init__(self,workbook):
         self.workbook = workbook
-        
-        
+    
+    volume_Extensions = {"EBS:VolumeP-Throughput.gp3",
+                         "EBS:directAPI.snapshot.List",
+                         "EBS:VolumeP-IOPS.piops",
+                         "EBS:VolumeIOUsage"}
         
     def process(self):
         counter = 1
@@ -13,7 +16,7 @@ class ec2_Others_cost_assessments():
             counter+=1
             cell_obj = self.workbook.cell(row=counter,column= config.line_item_usage_type_column)
             desc = self.workbook.cell(row=counter, column=config.line_item_Description_column).value
-            usageUnit = self.workbook.cell(row=counter, column=config.usage_unit_column).value 
+            usageUnit = self.workbook.cell(row=counter, column=config.usage_unit_column).value
             usageAmount = self.workbook.cell(row=counter, column=config.usage_amount_column).value
             if cell_obj.value != None:
                 usagetype = cell_obj.value
@@ -96,6 +99,38 @@ class ec2_Others_cost_assessments():
                                     comments,
                                     "OCI Block Volume",
                                     "B91961")
+                elif self.volume_Extensions.issubset(usagetype_tolist):
+                    comments = "Included with Volumes TestAdded"
+                    writing_to_file(self.workbook,
+                                    counter,
+                                    0,
+                                    0,
+                                    comments,
+                                    "OCI Block Volume")
+                elif "ebs:snapshotusage" in usagetype_tolist:
+                    ociUnitPrice = "0.0255"
+                    ociPrice = (usageAmount*0.0255)
+                    comments = "OCI Backups"
+                    writing_to_file(self.workbook,
+                                    counter,
+                                    ociUnitPrice,
+                                    ociPrice,
+                                    comments,
+                                    "OCI Backup",
+                                    "B91961")
+                
+                elif "natgateway" in usagetype_tolist:
+                    if "bytes" in usagetype_tolist:
+                        comments = "NatGateway No Pricing for Bytes Processed"
+                    elif "hours" in usagetype_tolist:
+                        comments = "NatGateway No Pricing for Hours of Operation"
+                    writing_to_file(self.workbook,
+                                    counter,
+                                    0,
+                                    0,
+                                    comments,
+                                    "OCI Nategateway",)
+                    
             
                 
 

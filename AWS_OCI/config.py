@@ -17,11 +17,11 @@ usage_amount_column = 8
 usage_unit_column = 7
 
 #!  Writing to file column Numbers
-OCI_unit_price_column = 11
-OCI_sum_cost_column = 12
-OCI_Service_column = 13
-category_column = 14
-OCI_sku_column = 15
+OCI_unit_price_column = 21
+OCI_sum_cost_column = 22
+OCI_Service_column = 23
+category_column = 24
+OCI_sku_column = 25
 
 
 # Fast connect Pricing -  {AWS Direct connect}:

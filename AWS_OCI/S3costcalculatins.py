@@ -244,3 +244,6 @@ class s3_cost_assisments(Data_transfer):
                     self.earlyDelete_calculation(counter,usagetype_tolist)
 
         print(counter)
+        
+        
+        
